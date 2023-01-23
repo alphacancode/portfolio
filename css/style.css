@@ -1,0 +1,15 @@
+*{ 
+    font-family: 'Urbanist',sans-serif;
+}
+
+.text-gradient{ 
+    background: linear-gradient(90deg, #3D75FF 10.53%, #00C2FF 111.78%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+
+.button-blue{
+    background: linear-gradient(90deg, #3D75FF 10.53%, #00C2FF 111.78%);
+}
